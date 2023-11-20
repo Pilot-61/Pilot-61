@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Amine Es-salhi</h1>
-<div class="tenor-gif-embed" data-postid="15747325" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/epic-rick-and-morty-travel-shades-on-driving-gif-15747325"></a>
+<p align="left"> <img src="https://tenor.com/view/epic-rick-and-morty-travel-shades-on-driving-gif-15747325" alt="mes-salh" /> </p>
 <h3 align="center">A passionate Full-stack developer from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mes-salh&label=Profile%20views&color=0e75b6&style=flat" alt="mes-salh" /> </p>
