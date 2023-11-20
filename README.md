@@ -2,7 +2,7 @@
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><img src="https://giphy.com/embed/u0SQkPClLiBry" width="100%" height="100%" style="position:absolute"/></div>
 <h3 align="center">A passionate Full-stack developer from Morocco</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mes-salh&label=Profile%20views&color=0e75b6&style=flat" alt="mes-salh" /> </p>
+<p align="left"> <img src="https://media.giphy.com/media/u0SQkPClLiBry/giphy.gif" alt="mes-salh" /> </p>
 
 - 🔭 I’m currently working on **42-cursus**
 
