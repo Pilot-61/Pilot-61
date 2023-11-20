@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Amine Es-salhi</h1>
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/u0SQkPClLiBry" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/funimation-u0SQkPClLiBry">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><img src="https://giphy.com/embed/u0SQkPClLiBry" width="100%" height="100%" style="position:absolute"/></div>
 <h3 align="center">A passionate Full-stack developer from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mes-salh&label=Profile%20views&color=0e75b6&style=flat" alt="mes-salh" /> </p>
