@@ -2,14 +2,16 @@
 <h3 align="center">A passionate Full-stack developer from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mes-salh&label=Profile%20views&color=0e75b6&style=flat" alt="mes-salh" /> </p>
-[![mes-salh's 42 stats](https://badge.mediaplus.ma/black/mes-salh)](https://github.com/oakoudad/badge42)
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/mes-salh" alt="mes-salh's 42 stats" /></a>
+- 🔭 I’m currently working on **42-cursus**
 
-- 🌱 I’m currently learning **C,C++,REACT-JS,MONGODB,MYSQL**
+- 🌱 I’m currently learning **C,C++,REACT-JS,MONGODB,MYSQL...**
 
 - 📫 How to reach me **jfeer55@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/essalhi mohammed amine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="essalhi mohammed amine" height="30" width="40" /></a>
 <a href="https://instagram.com/medd_3o22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="medd_3o22" height="30" width="40" /></a>
 <a href="https://discord.gg/jsnow0752" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jsnow0752" height="30" width="40" /></a>
 </p>
