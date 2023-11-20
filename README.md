@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jfeer55@gmail.com**
 <br/>
-[![mes-salh's 42 stats](https://badge.mediaplus.ma/black/mes-salh)](https://github.com/oakoudad/badge42)
+<center><img src="https://badge.mediaplus.ma/black/mes-salh" alt="mes-salh's 42 stats" /></center>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/essalhi mohammed amine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="essalhi mohammed amine" height="30" width="40" /></a>
