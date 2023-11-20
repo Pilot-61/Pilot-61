@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohammed Amine Es-salhi</h1>
-<img src="https://giphy.com/embed/u0SQkPClLiBry" width="100%" height="100%" style="position:absolute"/>
+<p align="left"> <img src="https://media.giphy.com/media/u0SQkPClLiBry/giphy.gif" alt="mes-salh" /> </p>
 <h3 align="center">A passionate Full-stack developer from Morocco</h3>
 
-<p align="left"> <img src="https://media.giphy.com/media/u0SQkPClLiBry/giphy.gif" alt="mes-salh" /> </p>
 
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/mes-salh" alt="mes-salh's 42 stats" /></a>
 - 🔭 I’m currently working on **42-cursus**
 
 - 🌱 I’m currently learning **C,C++,REACT-JS,MONGODB,MYSQL...**
