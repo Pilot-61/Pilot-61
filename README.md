@@ -12,7 +12,6 @@
   ░        ░   ▒   ▒ ▒ ░░   ░ ░   ░ ░ ░ ▒  ░ ░ ░ ▒     ░   ░ ░ 
                ░  ░░ ░                ░ ░      ░ ░           ░ 
                    ░ ░                                         
-<br\>
 - 🔭 I’m currently working on **42-cursus**
 
 - 🌱 I’m currently learning **C,C++,REACT-JS,MONGODB,MYSQL...**
