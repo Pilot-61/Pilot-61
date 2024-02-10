@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Amine Es-salhi</h1>
 <p align="center"> <img src="https://media.giphy.com/media/u0SQkPClLiBry/giphy.gif" alt="mes-salh" /> </p>
 <h3 align="center">A passionate Full-stack developer from Morocco</h3>
-<p align="center">
 
 ▄▄▄█████▓ ▄▄▄     ▓██   ██▓  █████▒▒█████   ▒█████   ███▄    █ 
 ▓  ██▒ ▓▒▒████▄    ▒██  ██▒▓██   ▒▒██▒  ██▒▒██▒  ██▒ ██ ▀█   █ 
@@ -13,8 +12,7 @@
   ░        ░   ▒   ▒ ▒ ░░   ░ ░   ░ ░ ░ ▒  ░ ░ ░ ▒     ░   ░ ░ 
                ░  ░░ ░                ░ ░      ░ ░           ░ 
                    ░ ░                                         
-
-  </p>
+<br\>
 - 🔭 I’m currently working on **42-cursus**
 
 - 🌱 I’m currently learning **C,C++,REACT-JS,MONGODB,MYSQL...**
