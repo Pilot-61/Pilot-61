@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **jfeer55@gmail.com**
 <br/>
-<p align="center"><img src="https://badge.mediaplus.ma/black/mes-salh" alt="mes-salh's 42 stats" /></p>
+*/<p align="center"><img src="https://badge.mediaplus.ma/black/mes-salh" alt="mes-salh's 42 stats" /></p>/*
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/essalhi-mohammed-amine-2056a821b/" target="_blank">
