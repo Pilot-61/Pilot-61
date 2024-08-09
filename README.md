@@ -34,9 +34,11 @@
   <a href="https://www.jira.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/> </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mes-salh&show_icons=true&locale=en&layout=compact" alt="mes-salh" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mes-salh&show_icons=true&locale=en" alt="mes-salh" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mes-salh&" alt="mes-salh" /></p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mes-salh&show_icons=true&locale=en&layout=compact&theme=default&hide_border=false&width=400" alt="mes-salh" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mes-salh&show_icons=true&locale=en&theme=default&hide_border=false&width=400" alt="mes-salh" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mes-salh&theme=default&hide_border=false&width=400" alt="mes-salh" width="400" />
+</div>
 <br>
 
 ![Snake animation](https://github.com/mes-salh/mes-salh/blob/main/.github/workflows/github-user-contribution%20(1).svg)
