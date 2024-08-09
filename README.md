@@ -9,6 +9,8 @@
 📫 How to reach me jfeer55@gmail.com
 
 <br/>
+ ![Snake animation](https://github.com/mes-salh/mes-salh/.github/workflows/github-user-messalh.svg)
+
 <h3 align="left">Connect with me:</h3>
 <p>
 <a href="https://www.linkedin.com/in/essalhi-mohammed-amine-2056a821b/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="essalhi mohammed amine" height="30" width="40" /> </a>
