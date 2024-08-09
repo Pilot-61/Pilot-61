@@ -36,9 +36,9 @@
 </div>
 <hr>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mes-salh&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&card_width=640" alt="mes-salh"  /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=mes-salh&show_icons=true&locale=en&theme=dark&hide_border=true&card_width=640" alt="mes-salh"  /> <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mes-salh&theme=dark&hide_border=true&card_width=640" alt="mes-salh"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mes-salh&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&card_width=800" alt="mes-salh"  /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=mes-salh&show_icons=true&locale=en&theme=dark&hide_border=true&card_width=800" alt="mes-salh"  /> <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mes-salh&theme=dark&hide_border=true&card_width=800" alt="mes-salh"  />
 </div>
 <hr>
 
