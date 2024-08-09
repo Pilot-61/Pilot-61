@@ -16,7 +16,7 @@
 <a href="https://discord.gg/jsnow0752" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jsnow0752" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -33,7 +33,7 @@
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/> </a>
   <a href="https://www.jira.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/> </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> </a>
-</p>
+</div>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mes-salh&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&card_width=640" alt="mes-salh"  /> <br>
   <img src="https://github-readme-stats.vercel.app/api?username=mes-salh&show_icons=true&locale=en&theme=dark&hide_border=true&card_width=640" alt="mes-salh"  /> <br>
