@@ -9,7 +9,7 @@
 📫 How to reach me jfeer55@gmail.com
 
 <br/>
-  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/mes-salh/mes-salh/blob/main/.github/workflows/github-user-contribution%20(1).svg)
 
 <h3 align="left">Connect with me:</h3>
 <p>
