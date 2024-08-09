@@ -36,8 +36,8 @@
 </p>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mes-salh&show_icons=true&locale=en&layout=compact&theme=default&hide_border=false&width=400" alt="mes-salh" width="400" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=mes-salh&show_icons=true&locale=en&theme=default&hide_border=false&width=400" alt="mes-salh" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mes-salh&theme=default&hide_border=false&width=400" alt="mes-salh" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mes-salh&show_icons=true&locale=en&theme=default&hide_border=false&width=400" alt="mes-salh" width="400" height="350" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mes-salh&theme=default&hide_border=false&width=400" alt="mes-salh" width="400" height="350" />
 </div>
 <br>
 
