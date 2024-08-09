@@ -34,6 +34,7 @@
   <a href="https://www.jira.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/> </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> </a>
 </div>
+<hr>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mes-salh&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&card_width=640" alt="mes-salh"  /> <br>
   <img src="https://github-readme-stats.vercel.app/api?username=mes-salh&show_icons=true&locale=en&theme=dark&hide_border=true&card_width=640" alt="mes-salh"  /> <br>
