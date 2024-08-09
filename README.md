@@ -9,7 +9,7 @@
 📫 How to reach me jfeer55@gmail.com
 
 <br/>
- ![Snake animation](https://github.com/mes-salh/mes-salh/.github/workflows/github-user-messalh.svg)
+ ![Snake animation](https://github.com/mes-salh/mes-salh/blob/main/.github/workflows/github-user-messalh.svg)
 
 <h3 align="left">Connect with me:</h3>
 <p>
