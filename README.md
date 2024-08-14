@@ -15,6 +15,7 @@
 <a href="https://discord.gg/jsnow0752" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jsnow0752" height="30" width="40" /></a>
 </div>
 
+
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 
 <h3 align="center">Languages and Tools:</h3>
