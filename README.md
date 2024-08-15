@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammed Amine Es-salhi</h1>
+<h1 align="center">Hello 👋, I'm Mohammed Amine Es-salhi</h1>
 <p align="center"> <img src="https://media0.giphy.com/media/pLiyRPqPyxy7e/giphy.gif" alt="mes-salh" /> </p>
 <h3 align="center">A passionate Full-stack developer from Morocco</h3>
 <div align="center">
