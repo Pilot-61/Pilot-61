@@ -41,7 +41,7 @@
 </div>
 <hr>
 
-![Snake animation](https://github.com/Pilot-61/Pilot-61/blob/main/.github/workflows/github-user-contribution%20(1).svg)
+![Snake animation](https://github.com/Pilot-61/Pilot-61/blob/main/.github/workflows/github-user-contribution.svg)
 
 <br/>
 
