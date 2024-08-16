@@ -17,7 +17,7 @@ jobs:
       - name: Generate snake gif
         uses: Platane/snk@master
         with:
-          github_user_name: mes-salh
+          github_user_name: Pilot-61
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - name: Deploy SVG to GitHub Pages
