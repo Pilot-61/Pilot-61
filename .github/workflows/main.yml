@@ -1,9 +1,9 @@
 name: Generate Datas
 
 on:
-  schedule: # Run every 12 hours
-    - cron: "0 */10 * * *"
-  workflow_dispatch: # Allow manual trigger
+  schedule:
+    - cron: "0 */5 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -11,18 +11,15 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-      # Checkout the repository
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Generate Snake Animation
       - name: Generate snake gif
         uses: Platane/snk@master
         with:
           github_user_name: mes-salh
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      # Push the generated SVG to the `output` branch
       - name: Deploy SVG to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
