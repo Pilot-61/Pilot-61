@@ -43,7 +43,7 @@
 ![Snake animation](https://github.com/Pilot-61/Pilot-61/blob/main/.github/workflows/github-user-contribution.svg)
 
 <br/>
-<p align="center">   <img src="https://github-profile-trophy.vercel.app/?username=pilot-61&column=10&theme=gruvbox&no-frame=true"/> </p>
+<p align="center">   <img align="center" src="https://github-profile-trophy.vercel.app/?username=pilot-61&theme=gruvbox&no-frame=true"/> </p>
 <br/>
 
 ![](https://komarev.com/ghpvc/?username=your-github-username)
