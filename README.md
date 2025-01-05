@@ -4,6 +4,7 @@
 <div align="center">
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 </div>                                    
+
 - 🔭 I’m currently working on **42-cursus**
 🌱 I’m currently learning C, C++ and more...
 
