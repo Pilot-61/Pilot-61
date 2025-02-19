@@ -24,10 +24,10 @@ I'm a passionate full-stack developer from Morocco, currently pursuing advanced 
   <a href="mailto:jfeer55@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://instagram.com/medd_3o22" target="_blank">
+  <a href="https://instagram.com/___essalhi" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://discord.gg/jsnow0752" target="_blank">
+  <a href="https://discord.gg/tayphoon__" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
