@@ -79,12 +79,12 @@ I'm a passionate full-stack developer from Morocco, currently pursuing advanced 
   <a href="https://github.com/Pilot-61">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pilot-61&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
   </a>
-  
+  <br>
   <!-- GitHub Stats Card -->
   <a href="https://github.com/Pilot-61">
     <img src="https://github-readme-stats.vercel.app/api?username=Pilot-61&show_icons=true&locale=en&theme=dark&hide_border=true" alt="GitHub Stats" />
   </a>
-  
+  <br>
   <!-- GitHub Streak Stats -->
   <a href="https://github.com/Pilot-61">
     <img src="https://streak-stats.demolab.com/?user=Pilot-61&theme=dark&hide_border=true" alt="GitHub Streak" />
