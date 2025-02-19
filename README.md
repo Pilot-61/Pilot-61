@@ -77,9 +77,9 @@ I'm a passionate full-stack developer from Morocco, currently pursuing advanced 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pilot-61&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&card_width=800" alt="Pilot-61"  /> <br>
   <img src="https://github-readme-stats.vercel.app/api?username=Pilot-61&show_icons=true&locale=en&theme=dark&hide_border=true&card_width=800" alt="Pilot-61"  /> <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pilot-61&theme=dark&hide_border=true&card_width=800" alt="Pilot-61"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pilot-61&theme=dark&hide_border=true&card_width=800" alt="Pilot-61"  /> <br>
 </div>
-
+<br>
 <div align="center">
   
   ![Snake animation](https://github.com/Pilot-61/Pilot-61/blob/main/.github/workflows/github-user-contribution.svg)
