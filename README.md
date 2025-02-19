@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | 42 Student</h3>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/pLiyRPqPyxy7e/giphy.gif" alt="coding" width="800" />
+  <img src="https://github.com/Pilot-61/Pilot-61/blob/main/developer-animation.svg" alt="coding" width="400" />
 </p>
 
 ## About Me
