@@ -1,9 +1,10 @@
 <h1 align="center">Mohammed Amine Es-salhi</h1>
 <h3 align="center">Full-Stack Developer | 42 Student</h3>
 
-<p align="center">
-  <img src="https://github.com/Pilot-61/Pilot-61/blob/main/developer-animation.svg" alt="coding" width="800" height="400" />
-</p>
+<div align="center">
+  <img src="https://github.com/Pilot-61/Pilot-61/blob/main/developer-animation.svg" alt="coding" width="800" height="400" style="display: block; margin: auto;" />
+</div>
+
 
 ## About Me
 
