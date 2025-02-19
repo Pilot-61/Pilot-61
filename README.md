@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | 42 Student</h3>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/pLiyRPqPyxy7e/giphy.gif" alt="coding" width="400" />
+  <img src="https://media0.giphy.com/media/pLiyRPqPyxy7e/giphy.gif" alt="coding" width="800" />
 </p>
 
 ## About Me
@@ -65,12 +65,6 @@ I'm a passionate full-stack developer from Morocco, currently pursuing advanced 
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
-
-## Featured Projects
-
-<a href="https://github.com/Pilot-61/C-RAYCASTING_3DGAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pilot-61&repo=C-RAYCASTING_3DGAME&theme=dark" alt="Raycasting 3D Game"/>
-</a>
 
 ## GitHub Stats
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
