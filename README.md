@@ -77,7 +77,7 @@ I'm a passionate full-stack developer from Morocco, currently pursuing advanced 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pilot-61&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&card_width=800" alt="Pilot-61"  /> <br>
   <img src="https://github-readme-stats.vercel.app/api?username=Pilot-61&show_icons=true&locale=en&theme=dark&hide_border=true&card_width=800" alt="Pilot-61"  /> <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pilot-61&theme=dark&hide_border=true&card_width=800" alt="Pilot-61"  />
+  <img src="https://streak-stats.demolab.com/?user=Pilot-61&theme=dark&hide_border=true&card_width=800" alt="Pilot-61" />
 </div>
 <br>
 <div align="center">
