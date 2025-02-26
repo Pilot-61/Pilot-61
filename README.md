@@ -5,7 +5,6 @@
   <img src="https://github.com/Pilot-61/Pilot-61/blob/main/developer-animation.svg" alt="coding" width="800" height="400" style="display: block; margin: auto;" />
 </div>
 
-
 ## About Me
 
 I'm a passionate full-stack developer from Morocco, currently pursuing advanced programming studies at 42 School. My journey in technology is driven by a commitment to clean code, innovative solutions, and continuous learning.
